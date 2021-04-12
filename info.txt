@@ -1,0 +1,2 @@
+this is demo for devops session moving from working to staging ad staging 
+to local repoitory and there to remote respository
