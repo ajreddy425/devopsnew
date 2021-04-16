@@ -1,2 +1,1 @@
 this is demo session devops
-this is mysecond  practice session
