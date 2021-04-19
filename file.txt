@@ -1,2 +1,3 @@
 this is demo session devops
 this is my new code updated one
+fetch command
