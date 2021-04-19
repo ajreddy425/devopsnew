@@ -5,3 +5,4 @@ this 2nd time demo
 this is pull command demo
 this 2nd time demo for git pull
 this 3rd demo
+this is conflict
