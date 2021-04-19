@@ -1,7 +1,0 @@
-this is demo session devops
-this is my new code updated one
-fetch command
-pull command
-demo ok na
-demo chk
-un stageing 
