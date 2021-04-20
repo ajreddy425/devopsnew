@@ -6,3 +6,4 @@ this is to chk
 demo ok na
 this is demo ok na
 this is new one brand new
+this git lock 
